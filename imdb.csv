@@ -1,0 +1,998 @@
+Title,Genre,Revenue (Millions),Rating
+Guardians of the Galaxy,Action,333.13,8.1
+Prometheus,Adventure,126.46,7.0
+Split,Horror,138.12,7.3
+Sing,Animation,270.32,7.2
+Suicide Squad,Action,325.02,6.2
+The Great Wall,Action,45.13,6.1
+La La Land,Comedy,151.06,8.3
+Mindhorn,Comedy,,6.4
+The Lost City of Z,Action,8.01,7.1
+Passengers,Adventure,100.01,7.0
+Fantastic Beasts and Where to Find Them,Adventure,234.02,7.5
+Hidden Figures,Other,169.27,7.8
+Rogue One,Action,532.17,7.9
+Moana,Animation,248.75,7.7
+Colossal,Action,2.87,6.4
+The Secret Life of Pets,Animation,368.31,6.6
+Hacksaw Ridge,Other,67.12,8.2
+Jason Bourne,Action,162.16,6.7
+Lion,Other,51.69,8.1
+Gold,Adventure,7.22,6.7
+Hounds of Love,Crime,,6.7
+Trolls,Animation,153.69,6.5
+Independence Day: Resurgence,Action,103.14,5.3
+Paris pieds nus,Comedy,,6.8
+Bahubali: The Beginning,Action,6.5,8.3
+Dead Awake,Horror,0.01,4.7
+Bad Moms,Comedy,113.08,6.2
+Assassin's Creed,Action,54.65,5.9
+Why Him?,Comedy,60.31,6.3
+X-Men: Apocalypse,Action,155.33,7.1
+Deadpool,Action,363.02,8.0
+Resident Evil: The Final Chapter,Action,26.84,5.6
+Captain America: Civil War,Action,408.08,7.9
+Interstellar,Adventure,187.99,8.6
+Doctor Strange,Action,232.6,7.6
+The Magnificent Seven,Action,93.38,6.9
+5- 25- 77,Comedy,,7.1
+Sausage Party,Animation,97.66,6.3
+Moonlight,Other,27.85,7.5
+Don't Fuck in the Woods,Horror,,2.7
+The Founder,Other,12.79,7.2
+Lowriders,Other,4.21,6.3
+Pirates of the Caribbean: On Stranger Tides,Action,241.06,6.7
+Miss Sloane,Other,3.44,7.3
+Fallen,Adventure,,5.6
+Star Trek Beyond,Action,158.8,7.1
+The Last Face,Other,,3.7
+Star Wars: Episode VII - The Force Awakens,Action,936.63,8.1
+Underworld: Blood Wars,Action,30.35,5.8
+Mother's Day,Comedy,32.46,5.6
+John Wick,Action,43.0,7.2
+The Dark Knight,Action,533.32,9.0
+Silence,Adventure,7.08,7.3
+Don't Breathe,Crime,89.21,7.2
+Me Before You,Other,56.23,7.4
+Their Finest,Comedy,3.18,7.0
+Sully,Other,125.07,7.5
+Batman v Superman: Dawn of Justice,Action,330.25,6.7
+The Autopsy of Jane Doe,Horror,,6.8
+The Girl on the Train,Crime,75.31,6.5
+Fifty Shades of Grey,Other,166.15,4.1
+The Prestige,Other,53.08,8.5
+Kingsman: The Secret Service,Action,128.25,7.7
+Patriots Day,Other,31.86,7.4
+Mad Max: Fury Road,Action,153.63,8.1
+Wakefield,Other,0.01,7.5
+Deepwater Horizon,Action,61.28,7.2
+The Promise,Other,,5.9
+Allied,Action,40.07,7.1
+A Monster Calls,Other,3.73,7.5
+Collateral Beauty,Other,30.98,6.8
+Zootopia,Animation,341.26,8.1
+Pirates of the Caribbean: At World's End,Action,309.4,7.1
+The Avengers,Action,623.28,8.1
+Inglourious Basterds,Adventure,120.52,8.3
+Pirates of the Caribbean: Dead Man's Chest,Action,423.03,7.3
+Ghostbusters,Action,128.34,5.3
+Inception,Action,292.57,8.8
+Captain Fantastic,Comedy,5.88,7.9
+The Wolf of Wall Street,Other,116.87,8.2
+Gone Girl,Crime,167.74,8.1
+Furious Seven,Action,350.03,7.2
+Jurassic World,Action,652.18,7.0
+Live by Night,Crime,10.38,6.4
+Avatar,Action,760.51,7.8
+The Hateful Eight,Crime,54.12,7.8
+The Accountant,Action,86.2,7.4
+Prisoners,Crime,60.96,8.1
+Warcraft,Action,47.17,7.0
+The Help,Other,169.71,8.1
+War Dogs,Comedy,43.02,7.1
+Avengers: Age of Ultron,Action,458.99,7.4
+The Nice Guys,Action,36.25,7.4
+Kimi no na wa,Animation,4.68,8.6
+The Void,Horror,0.15,5.8
+Personal Shopper,Other,1.29,6.3
+The Departed,Crime,132.37,8.5
+Legend,Other,1.87,7.0
+Thor,Action,181.02,7.0
+The Martian,Adventure,228.43,8.0
+Contratiempo,Crime,,7.9
+The Man from U.N.C.L.E.,Action,45.43,7.3
+Hell or High Water,Crime,26.86,7.7
+The Comedian,Comedy,1.6600000000000001,5.4
+The Legend of Tarzan,Action,126.59,6.3
+All We Had,Other,,5.8
+Ex Machina,Other,25.44,7.7
+The Belko Experiment,Action,10.16,6.3
+12 Years a Slave,Other,56.67,8.1
+The Bad Batch,Other,,6.1
+300,Action,210.59,7.7
+Harry Potter and the Deathly Hallows: Part 2,Adventure,380.96,8.1
+Office Christmas Party,Comedy,54.73,5.8
+The Neon Demon,Horror,1.33,6.2
+Dangal,Action,11.15,8.8
+10 Cloverfield Lane,Other,71.9,7.2
+Finding Dory,Animation,486.29,7.4
+Miss Peregrine's Home for Peculiar Children,Adventure,87.24,6.7
+Divergent,Adventure,150.83,6.7
+Mike and Dave Need Wedding Dates,Adventure,46.01,6.0
+Boyka: Undisputed IV,Action,,7.4
+The Dark Knight Rises,Action,448.13,8.5
+The Jungle Book,Adventure,364.0,7.5
+Transformers: Age of Extinction,Action,245.43,5.7
+Nerve,Adventure,38.56,6.6
+Mamma Mia!,Comedy,143.7,6.4
+The Revenant,Adventure,183.64,8.0
+Fences,Other,57.64,7.3
+Into the Woods,Adventure,128.0,6.0
+The Shallows,Other,55.12,6.4
+Whiplash,Other,13.09,8.5
+Furious 6,Action,238.67,7.1
+The Place Beyond the Pines,Crime,21.38,7.3
+No Country for Old Men,Crime,74.27,8.1
+The Great Gatsby,Other,144.81,7.3
+Shutter Island,Other,127.97,8.1
+Brimstone,Other,,7.1
+Star Trek,Action,257.7,8.0
+Diary of a Wimpy Kid,Comedy,64.0,6.2
+The Big Short,Other,70.24,7.8
+Room,Other,14.68,8.2
+Django Unchained,Other,162.8,8.4
+Ah-ga-ssi,Other,2.01,8.1
+The Edge of Seventeen,Comedy,14.26,7.4
+Watchmen,Action,107.5,7.6
+Superbad,Comedy,121.46,7.6
+Inferno,Action,34.26,6.2
+The BFG,Adventure,55.47,6.4
+The Hunger Games,Adventure,408.0,7.2
+White Girl,Other,0.2,5.8
+Sicario,Action,46.88,7.6
+Twin Peaks: The Missing Pieces,Other,,8.1
+Aliens vs Predator - Requiem,Action,41.8,4.7
+Pacific Rim,Action,101.79,7.0
+"Crazy, Stupid, Love.",Comedy,84.24,7.4
+Scott Pilgrim vs. the World,Action,31.49,7.5
+Hot Fuzz,Action,23.62,7.9
+Mine,Other,,6.0
+Free Fire,Action,1.8,7.0
+X-Men: Days of Future Past,Action,233.91,8.0
+Jack Reacher: Never Go Back,Action,58.4,6.1
+Casino Royale,Action,167.01,8.0
+Twilight,Other,191.45,5.2
+Now You See Me 2,Action,65.03,6.5
+Woman in Gold,Other,33.31,7.3
+13 Hours,Action,52.82,7.3
+Spectre,Action,200.07,6.8
+Nightcrawler,Crime,32.28,7.9
+Kubo and the Two Strings,Animation,48.02,7.9
+Beyond the Gates,Adventure,,5.2
+Her,Other,25.56,8.0
+Frozen,Animation,400.74,7.5
+Tomorrowland,Action,93.42,6.5
+Dawn of the Planet of the Apes,Action,208.54,7.6
+Tropic Thunder,Action,110.42,7.0
+The Conjuring 2,Horror,102.46,7.4
+Ant-Man,Action,180.19,7.3
+Bridget Jones's Baby,Comedy,24.09,6.7
+The VVitch: A New-England Folktale,Horror,25.14,6.8
+Cinderella,Other,201.15,7.0
+Realive,Sci-Fi,,5.9
+Forushande,Other,3.4,8.0
+Love,Other,,6.0
+Billy Lynn's Long Halftime Walk,Other,1.72,6.3
+Crimson Peak,Other,31.06,6.6
+Drive,Crime,35.05,7.8
+Trainwreck,Comedy,110.01,6.3
+The Light Between Oceans,Other,12.53,7.2
+Below Her Mouth,Other,,5.6
+Spotlight,Crime,44.99,8.1
+Morgan,Horror,3.91,5.8
+Warrior,Action,13.65,8.2
+Captain America: The First Avenger,Action,176.64,6.9
+Hacker,Crime,,6.3
+Into the Wild,Adventure,18.35,8.1
+The Imitation Game,Other,91.12,8.1
+Central Intelligence,Action,127.38,6.3
+Edge of Tomorrow,Action,100.19,7.9
+A Cure for Wellness,Other,8.1,6.5
+Snowden,Other,21.48,7.3
+Iron Man,Action,318.3,7.9
+Allegiant,Action,66.0,5.7
+X: First Class,Action,146.41,7.8
+Raw (II),Other,0.51,7.5
+Paterson,Comedy,2.14,7.5
+Bridesmaids,Comedy,169.08,6.8
+The Girl with All the Gifts,Other,,6.7
+San Andreas,Action,155.18,6.1
+Spring Breakers,Other,14.12,5.3
+Transformers,Action,318.76,7.1
+Old Boy,Action,,5.8
+Thor: The Dark World,Action,206.36,7.0
+Gods of Egypt,Action,31.14,5.5
+Captain America: The Winter Soldier,Action,259.75,7.8
+Monster Trucks,Action,33.04,5.7
+A Dark Song,Other,,6.1
+Kick-Ass,Action,48.04,7.7
+Hardcore Henry,Action,9.24,6.7
+Cars,Animation,244.05,7.1
+It Follows,Horror,14.67,6.9
+The Girl with the Dragon Tattoo,Crime,102.52,7.8
+We're the Millers,Comedy,150.37,7.0
+American Honey,Other,0.66,7.0
+The Lobster,Comedy,8.7,7.1
+Predators,Action,52.0,6.4
+Maleficent,Action,241.41,7.0
+Rupture,Horror,,4.8
+Pan's Labyrinth,Other,37.62,8.2
+A Kind of Murder,Crime,0.0,5.2
+Apocalypto,Action,50.86,7.8
+Mission: Impossible - Rogue Nation,Action,195.0,7.4
+The Huntsman: Winter's War,Action,47.95,6.1
+The Perks of Being a Wallflower,Other,17.74,8.0
+Jackie,Other,13.96,6.8
+The Disappointments Room,Other,2.41,3.9
+The Grand Budapest Hotel,Adventure,59.07,8.1
+The Host,Action,26.62,5.9
+Fury,Action,85.71,7.6
+Inside Out,Animation,356.45,8.2
+Rock Dog,Animation,9.4,5.8
+Terminator Genisys,Action,89.73,6.5
+Percy Jackson & the Olympians: The Lightning Thief,Adventure,88.76,5.9
+Les Misérables,Other,148.78,7.6
+Children of Men,Other,35.29,7.9
+20th Century Women,Comedy,5.66,7.4
+Spy,Action,110.82,7.1
+The Intouchables,Other,13.18,8.6
+Bonjour Anne,Comedy,0.32,4.9
+Kynodontas,Other,0.11,7.3
+Straight Outta Compton,Other,161.03,7.9
+The Amazing Spider-Man 2,Action,202.85,6.7
+The Conjuring,Horror,137.39,7.5
+The Hangover,Comedy,277.31,7.8
+Battleship,Action,65.17,5.8
+Rise of the Planet of the Apes,Action,176.74,7.6
+Lights Out,Horror,67.24,6.4
+Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Other,2.27,7.1
+Birdman or (The Unexpected Virtue of Ignorance),Comedy,42.34,7.8
+Black Swan,Other,106.95,8.0
+Dear White People,Comedy,4.4,6.2
+Nymphomaniac: Vol. I,Other,0.79,7.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,Action,0.54,6.0
+Knock Knock,Other,0.03,4.9
+Dirty Grandpa,Comedy,35.54,6.0
+Cloud Atlas,Other,27.1,7.5
+X-Men Origins: Wolverine,Action,179.88,6.7
+Satanic,Horror,,3.7
+Skyfall,Action,304.36,7.8
+The Hobbit: An Unexpected Journey,Adventure,303.0,7.9
+21 Jump Street,Action,138.45,7.2
+Sing Street,Comedy,3.23,8.0
+Ballerina,Animation,,6.8
+Oblivion,Action,89.02,7.0
+22 Jump Street,Action,191.62,7.1
+Zodiac,Crime,33.05,7.7
+Everybody Wants Some!!,Comedy,3.37,7.0
+Iron Man Three,Action,408.99,7.2
+Now You See Me,Crime,117.7,7.3
+Sherlock Holmes,Action,209.02,7.6
+Death Proof,Other,,7.1
+The Danish Girl,Other,12.71,7.0
+Hercules,Action,72.66,6.0
+Sucker Punch,Action,36.38,6.1
+Keeping Up with the Joneses,Action,14.9,5.8
+Jupiter Ascending,Action,47.38,5.3
+Masterminds,Action,17.36,5.8
+Iris,Other,,6.1
+Busanhaeng,Action,2.13,7.5
+Pitch Perfect,Comedy,65.0,7.2
+Neighbors 2: Sorority Rising,Comedy,55.29,5.7
+The Exception,Other,,7.7
+Man of Steel,Action,291.02,7.1
+The Choice,Other,18.71,6.6
+Ice Age: Collision Course,Animation,64.06,5.7
+The Devil Wears Prada,Comedy,124.73,6.8
+The Infiltrator,Other,15.43,7.1
+There Will Be Blood,Other,40.22,8.1
+The Equalizer,Action,101.53,7.2
+Lone Survivor,Action,125.07,7.5
+The Cabin in the Woods,Horror,42.04,7.0
+The House Bunny,Comedy,48.24,5.5
+She's Out of My League,Comedy,31.58,6.4
+Inherent Vice,Comedy,8.09,6.7
+Alice Through the Looking Glass,Adventure,77.04,6.2
+Vincent N Roxxy,Crime,,5.5
+The Fast and the Furious: Tokyo Drift,Action,62.49,6.0
+How to Be Single,Comedy,46.81,6.1
+The Blind Side,Other,255.95,7.7
+La vie d'Adèle,Other,2.2,7.8
+The Babadook,Other,0.92,6.8
+The Hobbit: The Battle of the Five Armies,Adventure,255.11,7.4
+Harry Potter and the Order of the Phoenix,Adventure,292.0,7.5
+Snowpiercer,Action,4.5600000000000005,7.0
+The 5th Wave,Action,34.91,5.2
+The Stakelander,Action,,5.3
+The Visit,Comedy,65.07,6.2
+Fast Five,Action,209.81,7.3
+Step Up,Crime,65.27,6.5
+Lovesong,Other,0.01,6.4
+RocknRolla,Action,5.69,7.3
+In Time,Action,37.55,6.7
+The Social Network,Other,96.92,7.7
+The Last Witch Hunter,Action,27.36,6.0
+Victor Frankenstein,Other,5.77,6.0
+A Street Cat Named Bob,Other,0.04,7.4
+Green Room,Crime,3.22,7.0
+Blackhat,Crime,7.1,5.4
+Storks,Animation,72.66,6.9
+American Sniper,Action,350.12,7.3
+Dallas Buyers Club,Other,27.3,8.0
+Lincoln,Other,182.2,7.4
+Rush,Action,26.9,8.1
+Before I Wake,Other,,6.1
+Silver Linings Playbook,Comedy,132.09,7.8
+Tracktown,Other,,5.9
+The Fault in Our Stars,Other,124.87,7.8
+Blended,Comedy,46.28,6.5
+Fast & Furious,Action,155.02,6.6
+Looper,Action,66.47,7.4
+White House Down,Action,73.1,6.4
+Pete's Dragon,Adventure,76.2,6.8
+Spider-Man 3,Action,336.53,6.2
+The Three Musketeers,Action,20.32,5.8
+Stardust,Adventure,38.35,7.7
+American Hustle,Crime,150.12,7.3
+Jennifer's Body,Comedy,16.2,5.1
+Midnight in Paris,Comedy,56.82,7.7
+Lady Macbeth,Other,,7.3
+Joy,Other,56.44,6.6
+The Dressmaker,Comedy,2.02,7.1
+Café Society,Comedy,11.08,6.7
+Insurgent,Adventure,130.0,6.3
+Seventh Son,Action,17.18,5.5
+Demain tout commence,Comedy,,7.4
+The Theory of Everything,Other,35.89,7.7
+This Is the End,Comedy,101.47,6.6
+About Time,Comedy,15.29,7.8
+Step Brothers,Comedy,100.47,6.9
+Clown,Horror,0.05,5.7
+Star Trek Into Darkness,Action,228.76,7.8
+Zombieland,Adventure,75.59,7.7
+"Hail, Caesar!",Comedy,30.0,6.3
+Slumdog Millionaire,Other,141.32,8.0
+The Twilight Saga: Breaking Dawn - Part 2,Adventure,292.3,5.5
+American Wrestler: The Wizard,Other,,6.9
+The Amazing Spider-Man,Action,262.03,7.0
+Ben-Hur,Action,26.38,5.7
+Sleight,Action,3.85,6.0
+The Maze Runner,Action,102.41,6.8
+Criminal,Action,14.27,6.3
+Wanted,Action,134.57,6.7
+Florence Foster Jenkins,Other,27.37,6.9
+Collide,Action,2.2,5.7
+Black Mass,Other,62.56,6.9
+Creed,Other,109.71,7.6
+Swiss Army Man,Adventure,4.21,7.1
+The Expendables 3,Action,39.29,6.1
+What We Do in the Shadows,Comedy,3.33,7.6
+Southpaw,Other,52.42,7.4
+Hush,Horror,,6.6
+Bridge of Spies,Other,72.31,7.6
+The Lego Movie,Animation,257.76,7.8
+Everest,Action,43.25,7.1
+Pixels,Action,78.75,5.6
+Robin Hood,Action,105.22,6.7
+The Wolverine,Action,132.55,6.7
+John Carter,Action,73.06,6.6
+Keanu,Action,20.57,6.3
+The Gunman,Action,10.64,5.8
+Steve Jobs,Other,17.75,7.2
+Whisky Galore,Comedy,,5.0
+Grown Ups 2,Comedy,133.67,5.4
+The Age of Adaline,Other,42.48,7.2
+The Incredible Hulk,Action,134.52,6.8
+Couples Retreat,Comedy,109.18,5.5
+Absolutely Anything,Comedy,,6.0
+Magic Mike,Comedy,113.71,6.1
+Minions,Animation,336.03,6.4
+The Black Room,Horror,,3.9
+Bronson,Action,0.1,7.1
+Despicable Me,Animation,251.5,7.7
+The Best of Me,Other,26.76,6.7
+The Invitation,Other,0.23,6.7
+Zero Dark Thirty,Other,95.72,7.4
+Tangled,Animation,200.81,7.8
+The Hunger Games: Mockingjay - Part 2,Action,281.67,6.6
+Vacation,Adventure,58.88,6.1
+Taken,Action,145.0,7.8
+Pitch Perfect 2,Comedy,183.44,6.5
+Monsters University,Animation,268.49,7.3
+Elle,Crime,,7.2
+Mechanic: Resurrection,Action,21.2,5.6
+Tusk,Comedy,1.82,5.4
+The Headhunter's Calling,Other,,6.9
+Atonement,Other,50.92,7.8
+Harry Potter and the Deathly Hallows: Part 1,Adventure,294.98,7.7
+Shame,Other,4.0,7.2
+Hanna,Action,40.25,6.8
+The Babysitters,Other,0.04,5.7
+Pride and Prejudice and Zombies,Action,10.91,5.8
+300: Rise of an Empire,Action,106.37,6.2
+London Has Fallen,Action,62.4,5.9
+The Curious Case of Benjamin Button,Other,127.49,7.8
+Sin City: A Dame to Kill For,Action,13.75,6.5
+The Bourne Ultimatum,Action,227.14,8.1
+Srpski film,Horror,,5.2
+The Purge: Election Year,Action,79.0,6.0
+3 Idiots,Comedy,6.52,8.4
+Zoolander 2,Comedy,28.84,4.7
+World War Z,Action,202.35,7.0
+Mission: Impossible - Ghost Protocol,Action,209.36,7.4
+Let Me Make You a Martyr,Action,,6.4
+Filth,Comedy,0.03,7.1
+The Longest Ride,Other,37.43,7.1
+The imposible,Other,19.0,7.6
+Kick-Ass 2,Action,28.75,6.6
+Folk Hero & Funny Guy,Comedy,,5.6
+Oz the Great and Powerful,Adventure,234.9,6.3
+Brooklyn,Other,38.32,7.5
+Coraline,Animation,75.28,7.7
+Blue Valentine,Other,9.7,7.4
+The Thinning,Other,,6.0
+Silent Hill,Adventure,46.98,6.6
+Dredd,Action,13.4,7.1
+Hunt for the Wilderpeople,Adventure,5.2,7.9
+Big Hero 6,Animation,222.49,7.8
+Carrie,Other,35.27,5.9
+Iron Man 2,Action,312.06,7.0
+Demolition,Comedy,1.82,7.0
+Pandorum,Action,10.33,6.8
+Olympus Has Fallen,Action,98.9,6.5
+I Am Number Four,Action,55.09,6.1
+Jagten,Other,0.61,8.3
+The Proposal,Comedy,163.95,6.7
+Get Hard,Comedy,90.35,6.0
+Just Go with It,Comedy,103.03,6.4
+Revolutionary Road,Other,22.88,7.3
+The Town,Crime,92.17,7.6
+The Boy,Horror,35.79,6.0
+Denial,Other,4.07,6.6
+Predestination,Other,,7.5
+Goosebumps,Adventure,80.02,6.3
+Sherlock Holmes: A Game of Shadows,Action,186.83,7.5
+Salt,Action,118.31,6.4
+Enemy,Other,1.01,6.9
+District 9,Action,115.65,8.0
+The Other Guys,Action,119.22,6.7
+American Gangster,Other,130.13,7.8
+Marie Antoinette,Other,15.96,6.4
+2012,Action,166.11,5.8
+Harry Potter and the Half-Blood Prince,Adventure,301.96,7.5
+Argo,Other,136.02,7.7
+Eddie the Eagle,Other,15.79,7.4
+The Lives of Others,Other,11.28,8.5
+Pet,Horror,,5.7
+Paint It Black,Other,,8.3
+Macbeth,Other,,6.7
+Forgetting Sarah Marshall,Comedy,62.88,7.2
+The Giver,Other,45.09,6.5
+Triple 9,Action,12.63,6.3
+Perfetti sconosciuti,Comedy,,7.7
+Angry Birds,Animation,107.51,6.3
+Moonrise Kingdom,Adventure,45.51,7.8
+Hairspray,Comedy,118.82,6.7
+Safe Haven,Other,71.35,6.7
+Focus,Comedy,53.85,6.6
+Ratatouille,Animation,206.44,8.0
+Stake Land,Other,0.02,6.5
+The Book of Eli,Action,94.82,6.9
+Cloverfield,Action,80.03,7.0
+Point Break,Action,28.77,5.3
+Under the Skin,Other,2.61,6.3
+I Am Legend,Other,256.39,7.2
+Men in Black 3,Action,179.02,6.8
+Super 8,Other,126.98,7.1
+Law Abiding Citizen,Crime,73.34,7.4
+Up,Animation,292.98,8.3
+Maze Runner: The Scorch Trials,Action,81.69,6.3
+Carol,Other,0.25,7.2
+Imperium,Crime,,6.5
+Youth,Comedy,2.7,7.3
+Mr. Nobody,Other,,7.9
+City of Tiny Lights,Crime,,5.7
+Savages,Crime,47.31,6.5
+(500) Days of Summer,Comedy,32.39,7.7
+Movie 43,Comedy,8.83,4.3
+Gravity,Other,274.08,7.8
+The Boy in the Striped Pyjamas,Other,9.03,7.8
+Shooter,Action,46.98,7.2
+The Happening,Sci-Fi,64.51,5.0
+Bone Tomahawk,Adventure,66.01,7.1
+Magic Mike XXL,Comedy,,5.7
+Easy A,Comedy,58.4,7.1
+Exodus: Gods and Kings,Action,65.01,6.0
+Chappie,Action,31.57,6.9
+The Hobbit: The Desolation of Smaug,Adventure,258.36,7.9
+Half of a Yellow Sun,Other,0.05,6.2
+Anthropoid,Other,2.96,7.2
+The Counselor,Crime,16.97,5.3
+Viking,Action,23.05,4.7
+Whiskey Tango Foxtrot,Other,,6.6
+Trust,Crime,0.06,7.0
+Birth of the Dragon,Action,93.05,3.9
+Elysium,Action,,6.6
+The Green Inferno,Adventure,7.19,5.4
+Godzilla,Action,200.66,6.4
+The Bourne Legacy,Action,113.17,6.7
+A Good Year,Comedy,7.46,6.9
+Friend Request,Horror,64.03,5.4
+Deja Vu,Action,,7.0
+Lucy,Action,126.55,6.4
+A Quiet Passion,Other,1.08,7.2
+Need for Speed,Action,43.57,6.5
+Jack Reacher,Action,58.68,7.0
+The Do-Over,Action,0.54,5.7
+True Crimes,Crime,,7.3
+American Pastoral,Crime,,6.1
+The Ghost Writer,Other,15.52,7.2
+Limitless,Other,79.24,7.4
+Spectral,Action,,6.3
+P.S. I Love You,Other,53.68,7.1
+Zipper,Other,,5.7
+Midnight Special,Other,3.71,6.7
+Don't Think Twice,Comedy,4.42,6.8
+Alice in Wonderland,Adventure,334.19,6.5
+Chuck,Other,0.11,6.8
+"I, Daniel Blake",Other,,7.9
+The Break-Up,Comedy,118.68,5.8
+Loving,Other,7.7,7.1
+Fantastic Four,Action,56.11,4.3
+The Survivalist,Other,,6.3
+Colonia,Other,,7.1
+The Boy Next Door,Other,35.39,4.6
+The Gift,Other,43.77,7.1
+Dracula Untold,Action,55.94,6.3
+In the Heart of the Sea,Action,24.99,6.9
+Idiocracy,Adventure,0.44,6.6
+The Expendables,Action,102.98,6.5
+Evil Dead,Fantasy,54.24,6.5
+Sinister,Horror,48.06,6.8
+Wreck-It Ralph,Animation,189.41,7.8
+Snow White and the Huntsman,Action,155.11,6.1
+Pan,Adventure,34.96,5.8
+Transformers: Dark of the Moon,Action,352.36,6.3
+Juno,Comedy,143.49,7.5
+A Hologram for the King,Comedy,4.2,6.1
+Money Monster,Crime,41.01,6.5
+The Other Woman,Comedy,83.91,6.0
+Enchanted,Animation,127.71,7.1
+The Intern,Comedy,75.27,7.1
+Little Miss Sunshine,Comedy,59.89,7.8
+Bleed for This,Other,4.85,6.8
+Clash of the Titans,Action,163.19,5.8
+The Finest Hours,Action,27.55,6.8
+Tron,Action,172.05,6.8
+The Hunger Games: Catching Fire,Action,424.65,7.6
+All Good Things,Crime,0.58,6.3
+Kickboxer: Vengeance,Action,131.56,4.9
+The Last Airbender,Action,,4.2
+Sex Tape,Comedy,38.54,5.1
+What to Expect When You're Expecting,Comedy,41.1,5.7
+Moneyball,Other,75.61,7.6
+Ghost Rider,Action,115.8,5.2
+Unbroken,Other,115.6,7.2
+Immortals,Action,83.5,6.0
+Sunshine,Adventure,3.68,7.3
+Brave,Animation,237.28,7.2
+Män som hatar kvinnor,Other,10.1,7.8
+Adoration,Other,0.32,6.2
+The Drop,Crime,10.72,7.1
+She's the Man,Comedy,2.34,6.4
+Daddy's Home,Comedy,150.32,6.1
+Let Me In,Other,12.13,7.2
+Never Back Down,Action,24.85,6.6
+Grimsby,Action,6.86,6.2
+Moon,Other,5.01,7.9
+Megamind,Animation,148.34,7.3
+Gangster Squad,Action,46.0,6.7
+Blood Father,Action,93.95,6.4
+He's Just Not That Into You,Comedy,,6.4
+Kung Fu Panda 3,Animation,143.52,7.2
+The Rise of the Krays,Crime,6.53,5.1
+Handsome Devil,Other,,7.4
+Winter's Bone,Other,,7.2
+Horrible Bosses,Comedy,117.53,6.9
+Mommy,Other,3.49,8.1
+Hellboy II: The Golden Army,Action,75.75,7.0
+Beautiful Creatures,Other,19.45,6.2
+Toni Erdmann,Comedy,1.48,7.6
+The Lovely Bones,Other,43.98,6.7
+The Assassination of Jesse James by the Coward Robert Ford,Other,3.9,7.5
+Don Jon,Comedy,24.48,6.6
+Bastille Day,Action,0.04,6.3
+2307: Winter's Dream,Sci-Fi,20.76,4.0
+Free State of Jones,Action,,6.9
+Mr. Right,Action,0.03,6.3
+The Secret Life of Walter Mitty,Adventure,58.23,7.3
+Dope,Comedy,17.47,7.3
+Underworld Awakening,Action,62.32,6.4
+Antichrist,Other,0.4,6.6
+Friday the 13th,Horror,65.0,5.6
+Taken 3,Action,89.25,6.0
+Total Recall,Action,58.88,6.3
+X-Men: The Last Stand,Action,234.36,6.7
+The Escort,Comedy,,6.0
+The Whole Truth,Crime,,6.1
+Night at the Museum: Secret of the Tomb,Adventure,113.73,6.2
+Love & Other Drugs,Comedy,32.36,6.7
+The Interview,Comedy,6.11,6.6
+The Host,Comedy,2.2,7.0
+Megan Is Missing,Other,,4.9
+WALL·E,Animation,223.81,8.4
+Knocked Up,Comedy,148.73,7.0
+Source Code,Other,54.7,7.5
+Lawless,Crime,37.4,7.3
+Unfriended,Other,31.54,5.6
+American Reunion,Comedy,56.72,6.7
+The Pursuit of Happyness,Other,162.59,8.0
+Relatos salvajes,Comedy,3.08,8.1
+The Ridiculous 6,Comedy,,4.8
+Frantz,Other,0.86,7.5
+Viral,Other,,5.5
+Gran Torino,Other,148.09,8.2
+Burnt,Comedy,13.65,6.6
+Tall Men,Fantasy,,3.2
+Sleeping Beauty,Other,0.03,5.3
+Vampire Academy,Action,7.79,5.6
+Sweeney Todd: The Demon Barber of Fleet Street,Other,52.88,7.4
+Solace,Crime,,6.4
+Insidious,Horror,53.99,6.8
+Popstar: Never Stop Never Stopping,Comedy,9.39,6.7
+The Levelling,Other,,6.4
+Public Enemies,Other,97.03,7.0
+Boyhood,Other,25.36,7.9
+Teenage Mutant Ninja Turtles,Action,190.87,5.9
+Eastern Promises,Crime,17.11,7.7
+The Daughter,Other,0.03,6.7
+Pineapple Express,Action,87.34,7.0
+The First Time,Comedy,0.02,6.9
+Gone Baby Gone,Crime,20.3,7.7
+The Heat,Action,159.58,6.6
+L'avenir,Other,0.28,7.1
+Anna Karenina,Other,12.8,6.6
+Regression,Crime,0.05,5.7
+Ted 2,Adventure,81.26,6.3
+Pain & Gain,Comedy,49.87,6.5
+Blood Diamond,Adventure,57.37,8.0
+Devil's Knot,Other,,6.1
+Child 44,Crime,1.21,6.5
+The Hurt Locker,Other,15.7,7.6
+Green Lantern,Action,116.59,5.6
+War on Everyone,Action,,5.9
+The Mist,Horror,25.59,7.2
+Escape Plan,Action,25.12,6.7
+"Love, Rosie",Comedy,0.01,7.2
+The DUFF,Comedy,34.02,6.5
+The Age of Shadows,Action,0.54,7.2
+The Hunger Games: Mockingjay - Part 1,Action,337.1,6.7
+We Need to Talk About Kevin,Other,1.74,7.5
+Love & Friendship,Comedy,14.01,6.5
+The Mortal Instruments: City of Bones,Action,31.17,5.9
+Seven Pounds,Other,69.95,7.7
+The King's Speech,Other,138.8,8.0
+Hunger,Other,0.15,7.6
+Jumper,Action,80.17,6.1
+Toy Story 3,Animation,414.98,8.3
+Tinker Tailor Soldier Spy,Other,24.1,7.1
+Resident Evil: Retribution,Action,42.35,5.4
+Dear Zindagi,Other,1.4,7.8
+Genius,Other,1.3599999999999999,6.5
+Pompeii,Action,23.22,5.5
+Life of Pi,Adventure,124.98,7.9
+Hachi: A Dog's Tale,Other,,8.1
+10 Years,Comedy,0.2,6.1
+I Origins,Other,0.33,7.3
+Live Free or Die Hard,Action,134.52,7.2
+The Matchbreaker,Comedy,,5.5
+Funny Games,Crime,1.29,6.5
+Ted,Comedy,218.63,7.0
+RED,Action,90.36,7.1
+Australia,Adventure,49.55,6.6
+Faster,Action,23.23,6.5
+The Neighbor,Crime,,5.8
+The Adjustment Bureau,Other,62.45,7.1
+The Hollars,Comedy,1.02,6.5
+The Judge,Crime,47.11,7.4
+Closed Circuit,Crime,5.73,6.2
+Transformers: Revenge of the Fallen,Action,402.08,6.0
+La tortue rouge,Animation,0.92,7.6
+The Book of Life,Animation,50.15,7.3
+Incendies,Other,6.86,8.2
+The Heartbreak Kid,Comedy,36.77,5.8
+Happy Feet,Animation,197.99,6.5
+Entourage,Comedy,32.36,6.6
+The Strangers,Horror,52.53,6.2
+Noah,Action,101.16,5.8
+Neighbors,Comedy,150.06,6.4
+Nymphomaniac: Vol. II,Other,0.33,6.7
+Wild,Adventure,37.88,7.1
+Grown Ups,Comedy,162.0,6.0
+Blair Witch,Horror,20.75,5.1
+The Karate Kid,Action,176.59,6.2
+Dark Shadows,Comedy,79.71,6.2
+Friends with Benefits,Comedy,55.8,6.6
+The Illusionist,Other,39.83,7.6
+The A-Team,Action,77.21,6.8
+The Guest,Other,0.32,6.7
+The Internship,Comedy,44.67,6.3
+Paul,Adventure,37.37,7.0
+This Beautiful Fantastic,Comedy,,6.9
+The Da Vinci Code,Other,217.54,6.6
+Mr. Church,Comedy,0.6900000000000001,7.7
+Hugo,Adventure,73.82,7.5
+The Blackcoat's Daughter,Horror,0.02,5.6
+Body of Lies,Action,39.38,7.1
+Knight of Cups,Other,0.56,5.7
+The Mummy: Tomb of the Dragon Emperor,Action,102.18,5.2
+The Boss,Comedy,63.03,5.4
+Hands of Stone,Action,4.71,6.6
+El secreto de sus ojos,Other,20.17,8.2
+True Grit,Adventure,171.03,7.6
+We Are Your Friends,Other,3.59,6.2
+A Million Ways to Die in the West,Comedy,42.62,6.1
+Only for One Night,Other,,4.6
+Rules Don't Apply,Comedy,3.65,5.7
+Ouija: Origin of Evil,Horror,34.9,6.1
+Percy Jackson: Sea of Monsters,Adventure,68.56,5.9
+Fracture,Crime,39.0,7.2
+Oculus,Horror,27.69,6.5
+In Bruges,Comedy,7.76,7.9
+This Means War,Action,54.76,6.3
+Lída Baarová,Other,,5.0
+The Road,Adventure,0.06,7.3
+Lavender,Other,,5.2
+Deuces,Other,,6.6
+Conan the Barbarian,Action,21.27,5.2
+The Fighter,Action,93.57,7.8
+August Rush,Other,31.66,7.5
+Chef,Comedy,31.24,7.3
+Eye in the Sky,Other,18.7,7.3
+Eagle Eye,Action,101.11,6.6
+The Purge,Horror,64.42,5.7
+PK,Comedy,10.57,8.2
+Ender's Game,Action,61.66,6.7
+Indiana Jones and the Kingdom of the Crystal Skull,Action,317.01,6.2
+Paper Towns,Other,31.99,6.3
+High-Rise,Other,0.34,5.7
+Quantum of Solace,Action,168.37,6.6
+The Assignment,Action,,4.5
+How to Train Your Dragon,Animation,217.39,8.1
+Lady in the Water,Other,42.27,5.6
+The Fountain,Other,10.14,7.3
+Cars 2,Animation,191.45,6.2
+31,Horror,0.78,5.1
+Final Girl,Action,,4.7
+Chalk It Up,Comedy,,4.8
+The Man Who Knew Infinity,Other,3.86,7.2
+Unknown,Action,61.09,6.9
+Self/less,Action,12.28,6.5
+Mr. Brooks,Crime,28.48,7.3
+Tramps,Comedy,,6.5
+Before We Go,Comedy,0.04,6.9
+Captain Phillips,Other,107.1,7.8
+The Secret Scripture,Other,,6.8
+Max Steel,Action,3.77,4.6
+Hotel Transylvania 2,Animation,169.69,6.7
+Hancock,Action,227.95,6.4
+Sisters,Comedy,87.03,6.0
+The Family,Comedy,36.92,6.3
+Zack and Miri Make a Porno,Comedy,31.45,6.6
+Ma vie de Courgette,Animation,0.29,7.8
+Man on a Ledge,Action,18.6,6.6
+No Strings Attached,Comedy,70.63,6.2
+Rescue Dawn,Adventure,5.48,7.3
+Despicable Me 2,Animation,368.05,7.4
+A Walk Among the Tombstones,Crime,25.98,6.5
+The World's End,Action,26.0,7.0
+Yoga Hosers,Comedy,,4.3
+Seven Psychopaths,Comedy,14.99,7.2
+Beowulf,Animation,82.16,6.2
+Jack Ryan: Shadow Recruit,Action,50.55,6.2
+1408,Fantasy,71.98,6.8
+The Gambler,Crime,33.63,6.0
+Prince of Persia: The Sands of Time,Action,90.76,6.6
+The Spectacular Now,Comedy,6.85,7.1
+A United Kingdom,Other,3.9,6.8
+USS Indianapolis: Men of Courage,Action,,5.2
+Turbo Kid,Action,0.05,6.7
+Mama,Horror,71.59,6.2
+Orphan,Horror,41.57,7.0
+To Rome with Love,Comedy,16.68,6.3
+Fantastic Mr. Fox,Animation,21.0,7.8
+Inside Man,Crime,88.5,7.6
+I.T.,Crime,,5.4
+127 Hours,Adventure,18.33,7.6
+Annabelle,Horror,84.26,5.4
+Wolves at the Door,Horror,,4.6
+Suite Française,Other,,6.9
+The Imaginarium of Doctor Parnassus,Adventure,7.69,6.8
+G.I. Joe: The Rise of Cobra,Action,150.17,5.8
+Christine,Other,0.30000000000000004,7.0
+Man Down,Other,,5.8
+Crawlspace,Horror,,5.3
+Shut In,Other,6.88,4.6
+The Warriors Gate,Action,,5.3
+Grindhouse,Action,25.03,7.6
+Disaster Movie,Comedy,14.17,1.9
+Rocky Balboa,Other,70.27,7.2
+Diary of a Wimpy Kid: Dog Days,Comedy,49.0,6.4
+Jane Eyre,Other,11.23,7.4
+Fool's Gold,Action,70.22,5.7
+The Dictator,Comedy,59.62,6.4
+The Loft,Other,5.98,6.3
+Bacalaureat,Crime,0.13,7.5
+You Don't Mess with the Zohan,Action,100.02,5.5
+Exposed,Crime,,4.2
+Maudie,Other,,7.8
+Horrible Bosses 2,Comedy,54.41,6.3
+A Bigger Splash,Other,1.98,6.4
+Melancholia,Other,3.03,7.1
+The Princess and the Frog,Animation,104.37,7.1
+Unstoppable,Action,81.56,6.8
+Flight,Other,93.75,7.3
+Home,Animation,177.34,6.7
+La migliore offerta,Crime,0.09,7.8
+Mean Dreams,Other,,6.3
+42,Other,95.0,7.5
+21,Crime,81.16,6.8
+Begin Again,Other,16.17,7.4
+Out of the Furnace,Crime,11.33,6.8
+Vicky Cristina Barcelona,Other,23.21,7.1
+Kung Fu Panda,Animation,215.4,7.6
+Barbershop: The Next Cut,Comedy,54.01,5.9
+Terminator Salvation,Action,125.32,6.6
+Freedom Writers,Other,36.58,7.5
+The Hills Have Eyes,Horror,41.78,6.4
+Changeling,Other,35.71,7.8
+Remember Me,Other,19.06,7.2
+Koe no katachi,Animation,,8.4
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Comedy,66.95,6.2
+Locke,Other,1.3599999999999999,7.1
+The 9th Life of Louis Drax,Other,,6.3
+Horns,Other,0.16,6.5
+Indignation,Other,3.4,6.9
+The Stanford Prison Experiment,Other,0.64,6.9
+Diary of a Wimpy Kid: Rodrick Rules,Comedy,52.69,6.6
+Mission: Impossible III,Action,133.38,6.9
+En man som heter Ove,Comedy,3.36,7.7
+Dragonball Evolution,Action,9.35,2.7
+Red Dawn,Action,44.8,5.4
+One Day,Other,13.77,7.0
+Life as We Know It,Comedy,53.36,6.6
+28 Weeks Later,Other,28.64,7.0
+Warm Bodies,Comedy,66.36,6.9
+Blue Jasmine,Other,33.4,7.3
+G.I. Joe: Retaliation,Action,122.51,5.8
+Wrath of the Titans,Action,83.64,5.8
+Shin Gojira,Action,1.9100000000000001,6.9
+Saving Mr. Banks,Other,83.3,7.5
+Transcendence,Other,23.01,6.3
+Rio,Animation,143.62,6.9
+Equals,Other,0.03,6.1
+Babel,Other,34.3,7.5
+The Tree of Life,Other,13.3,6.8
+The Lucky One,Other,60.44,6.5
+Piranha 3D,Comedy,25.0,5.5
+50/50,Comedy,34.96,7.7
+The Intent,Crime,,3.5
+This Is 40,Comedy,67.52,6.2
+Real Steel,Action,85.46,7.1
+Sex and the City,Comedy,152.64,5.5
+Rambo,Action,42.72,7.1
+Planet Terror,Action,,7.1
+Concussion,Other,34.53,7.1
+The Fall,Adventure,2.2800000000000002,7.9
+The Ugly Truth,Comedy,88.92,6.5
+Bride Wars,Comedy,58.72,5.5
+Sleeping with Other People,Comedy,0.81,6.5
+Snakes on a Plane,Action,34.01,5.6
+What If,Comedy,3.45,6.8
+How to Train Your Dragon 2,Animation,177.0,7.9
+RoboCop,Action,58.61,6.2
+In Dubious Battle,Other,,6.2
+"Hello, My Name Is Doris",Comedy,14.44,6.7
+Ocean's Thirteen,Crime,117.14,6.9
+Slither,Comedy,7.77,6.5
+Contagion,Other,75.64,6.6
+Il racconto dei racconti - Tale of Tales,Other,0.08,6.4
+I Am the Pretty Thing That Lives in the House,Other,,4.7
+Bridge to Terabithia,Adventure,82.23,7.2
+Coherence,Other,0.07,7.2
+Notorious,Other,36.84,6.7
+Goksung,Other,0.79,7.5
+The Expendables 2,Action,85.02,6.6
+The Girl Next Door,Crime,,6.7
+Perfume: The Story of a Murderer,Crime,2.21,7.5
+The Golden Compass,Adventure,70.08,6.1
+Centurion,Action,0.12,6.4
+Scouts Guide to the Zombie Apocalypse,Action,3.64,6.3
+17 Again,Comedy,64.15,6.4
+No Escape,Action,27.29,6.8
+Superman Returns,Action,200.07,6.1
+The Twilight Saga: Breaking Dawn - Part 1,Adventure,281.28,4.9
+Precious,Other,47.54,7.3
+The Sea of Trees,Other,0.02,5.9
+Good Kids,Comedy,,6.1
+The Master,Other,16.38,7.1
+Footloose,Comedy,51.78,5.9
+If I Stay,Other,50.46,6.8
+The Ticket,Other,,5.4
+Detour,Other,,6.3
+The Love Witch,Comedy,0.22,6.2
+Talladega Nights: The Ballad of Ricky Bobby,Action,148.21,6.6
+The Human Centipede (First Sequence),Horror,0.18,4.4
+Super,Comedy,0.32,6.8
+The Siege of Jadotville,Action,,7.3
+Up in the Air,Other,83.81,7.4
+The Midnight Meat Train,Horror,0.07,6.1
+The Twilight Saga: Eclipse,Adventure,300.52,4.9
+Transpecos,Other,,5.8
+What's Your Number?,Comedy,13.99,6.1
+Riddick,Action,42.0,6.4
+Triangle,Fantasy,,6.9
+The Butler,Other,116.63,7.2
+King Cobra,Crime,0.03,5.6
+After Earth,Action,60.52,4.9
+Kicks,Adventure,0.15,6.1
+Me and Earl and the Dying Girl,Comedy,6.74,7.8
+The Descendants,Comedy,82.62,7.3
+Sex and the City 2,Comedy,95.33,4.3
+The Kings of Summer,Adventure,1.29,7.2
+Death Race,Action,36.06,6.4
+That Awkward Moment,Comedy,26.05,6.2
+Legion,Action,40.17,5.2
+End of Watch,Crime,40.98,7.7
+3 Days to Kill,Action,30.69,6.2
+Lucky Number Slevin,Crime,22.49,7.8
+Trance,Crime,2.32,7.0
+Into the Forest,Other,0.01,5.9
+The Other Boleyn Girl,Other,26.81,6.7
+I Spit on Your Grave,Crime,0.09,6.3
+Custody,Other,,6.9
+Inland Empire,Other,,7.0
+L'odyssée,Adventure,,6.7
+The Walk,Adventure,10.14,7.3
+Wrecker,Action,,3.5
+The Lone Ranger,Action,89.29,6.5
+Texas Chainsaw 3D,Horror,34.33,4.8
+Disturbia,Other,80.05,6.9
+Rock of Ages,Comedy,38.51,5.9
+Scream 4,Horror,38.18,6.2
+Queen of Katwe,Other,8.81,7.4
+My Big Fat Greek Wedding 2,Comedy,59.57,6.0
+Dark Places,Other,,6.2
+Amateur Night,Comedy,,5.0
+It's Only the End of the World,Other,,7.0
+The Skin I Live In,Other,3.19,7.6
+Miracles from Heaven,Other,61.69,7.0
+Annie,Comedy,85.91,5.3
+Across the Universe,Other,24.34,7.4
+Let's Be Cops,Comedy,82.39,6.5
+Max,Adventure,42.65,6.8
+Your Highness,Adventure,21.56,5.6
+Final Destination 5,Horror,42.58,5.9
+Endless Love,Other,23.39,6.3
+Martyrs,Horror,,7.1
+Selma,Other,52.07,7.5
+Underworld: Rise of the Lycans,Action,45.8,6.6
+Taare Zameen Par,Other,1.2,8.5
+Take Me Home Tonight,Comedy,6.92,6.3
+Resident Evil: Afterlife,Action,60.13,5.9
+Project X,Comedy,54.72,6.7
+Secret in Their Eyes,Crime,,6.2
+Hostel: Part II,Horror,17.54,5.5
+Step Up 2: The Streets,Other,58.01,6.2
+Search Party,Adventure,,5.6
+Nine Lives,Comedy,19.64,5.3
